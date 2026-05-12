@@ -28,6 +28,6 @@ Raw Data → Python (Clean) → SQL (Query)
 → Power BI (Visualize) → Insights
 
 ## Dashboard Preview
-![Supply Chain Dashboard](dashboard.png)
+![Supply Chain Dashboard](dashboard.png.png)
 
 
